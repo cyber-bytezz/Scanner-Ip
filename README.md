@@ -1,4 +1,4 @@
-# Changing-MAC
+# Scanning Networks 
 This Python script is a simple Nmap scanner that performs different types of scans (SYN ACK, UDP, Comprehensive) on an IP address. It displays Nmap version, scan info, IP status, protocols, and open ports for the chosen scan. Developed by Cyber_Bytezz, it showcases Nmap's power.
 # IP Scanner
 
